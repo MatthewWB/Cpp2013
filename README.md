@@ -1,4 +1,1 @@
-c--
-===
-
-course c++
+plik redame
